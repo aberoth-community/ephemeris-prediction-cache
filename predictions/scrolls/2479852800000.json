@@ -1,0 +1,4718 @@
+[
+    [
+        2479852882000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479854265000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2479856622000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479857932000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2479865477000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479866790000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2479915956000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479916868000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Red",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479917287000,
+        {
+            "newGlows": [
+                "Red",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2479921869000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green",
+                "Red",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479923312000,
+        {
+            "newGlows": [
+                "Red",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2479929058000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Red",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2479931186000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479932491000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2479947196000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479948614000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2479953470000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479954704000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2479974426000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479975735000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2479977359000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479978742000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2479983712000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479985026000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2479990444000,
+        {
+            "newGlows": [
+                "White",
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2479994699000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480015844000,
+        {
+            "newGlows": [
+                "Green",
+                "Yellow"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480022670000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480035655000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480036984000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480048666000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480049973000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480051776000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480053220000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480064186000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480065458000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480074768000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480076186000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480092157000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480093465000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480097514000,
+        {
+            "newGlows": [
+                "Red",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480101887000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480103311000,
+        {
+            "newGlows": [
+                "Red",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow"
+            ]
+        }
+    ],
+    [
+        2480110624000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Red",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480155145000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480156471000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480166300000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480167608000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480181801000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480183247000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480185859000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480187284000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480202340000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480203758000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480209838000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480211146000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480220321000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480221636000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480226459000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480227843000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480274379000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480275702000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480284124000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480285435000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480294631000,
+        {
+            "newGlows": [
+                "White",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480303041000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480311917000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480313363000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480318139000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480319642000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480327497000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480328805000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480329913000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480331330000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480338672000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480339987000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480351065000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480352450000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480385017000,
+        {
+            "newGlows": [
+                "Black",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480389705000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480393309000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480394629000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480402157000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480403470000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480442100000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480443547000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480445163000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480446471000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480446720000,
+        {
+            "newGlows": [
+                "White",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480454718000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black",
+                "White",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480455833000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480456244000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480457037000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480457485000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480458352000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480458902000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480469064000,
+        {
+            "newGlows": [
+                "Black",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480470526000,
+        {
+            "newGlows": [
+                "Green",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480473797000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480475701000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red",
+                "Green",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480477086000,
+        {
+            "newGlows": [
+                "Green",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480477319000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480488254000,
+        {
+            "newGlows": [
+                "White",
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480498071000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480511892000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480513207000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480520403000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480521718000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480562865000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480564174000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480572336000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480573783000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480575401000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480576716000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480585057000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480586474000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480592050000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480593570000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480600360000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480601745000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480602274000,
+        {
+            "newGlows": [
+                "Green",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480609464000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480630094000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480631405000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480638851000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480640168000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480680629000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480681938000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480688834000,
+        {
+            "newGlows": [
+                "Black",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480693750000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue",
+                "Black",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480695065000,
+        {
+            "newGlows": [
+                "Black",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480698442000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480702610000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480704058000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480712629000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480714046000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480725037000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480726423000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480727309000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480728786000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480747903000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480749210000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480757485000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480758804000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480798476000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480799786000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480812071000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480813385000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480832913000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480834361000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480840201000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480841619000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480849730000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480851116000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480855817000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480857179000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480865341000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480866644000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480876279000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480877600000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2480916420000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480917731000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2480930351000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480931665000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2480944797000,
+        {
+            "newGlows": [
+                "Black",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480950731000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480963235000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480964683000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2480967773000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480969191000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2480971444000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480972665000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480974433000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480975819000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2480982472000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480983772000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2480991626000,
+        {
+            "newGlows": [
+                "White",
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480995205000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow",
+                "White",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2480995881000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2480996527000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481012745000,
+        {
+            "newGlows": [
+                "Black",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481016632000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481034468000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481035781000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481048581000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481049894000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481082933000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481084230000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481093569000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481095018000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481095345000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481096763000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2481098079000,
+        {
+            "newGlows": [
+                "Red",
+                "Purple"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481099144000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481100701000,
+        {
+            "newGlows": [
+                "Red",
+                "Purple"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow"
+            ]
+        }
+    ],
+    [
+        2481108408000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Red",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481114234000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481115557000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481139828000,
+        {
+            "newGlows": [
+                "White",
+                "Purple"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481146868000,
+        {
+            "newGlows": [
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481147563000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White"
+            ]
+        }
+    ],
+    [
+        2481152623000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan",
+                "Green",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481153149000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481153937000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481160562000,
+        {
+            "newGlows": [
+                "White",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481166750000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue",
+                "White",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481168063000,
+        {
+            "newGlows": [
+                "White",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481193950000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481206655000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481208098000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481214756000,
+        {
+            "newGlows": [
+                "Green",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481216275000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple",
+                "Green",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481217573000,
+        {
+            "newGlows": [
+                "Green",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481222918000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White",
+                "Green",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481224335000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White"
+            ]
+        }
+    ],
+    [
+        2481225356000,
+        {
+            "newGlows": [
+                "Green",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow"
+            ]
+        }
+    ],
+    [
+        2481230818000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481233333000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481234657000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481249516000,
+        {
+            "newGlows": [
+                "White",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481270880000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan",
+                "White",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481272194000,
+        {
+            "newGlows": [
+                "White",
+                "Red"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481280467000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481284854000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481286166000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481287343000,
+        {
+            "newGlows": [
+                "Black",
+                "Purple"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481292403000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481329737000,
+        {
+            "newGlows": [
+                "Green",
+                "Yellow"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481333241000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple",
+                "Green",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481334542000,
+        {
+            "newGlows": [
+                "Green",
+                "Yellow"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481337448000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481339922000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481341431000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481348576000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481349961000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481350490000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481351907000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2481352471000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481353795000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481354244000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481355692000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481375486000,
+        {
+            "newGlows": [
+                "White",
+                "Yellow"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481385510000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481389229000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481390544000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481402890000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481404201000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481428433000,
+        {
+            "newGlows": [
+                "Red",
+                "Yellow"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481435050000,
+        {
+            "newGlows": [
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481442611000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481443258000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Red",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481450438000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481451742000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481471617000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481472941000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481473290000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481474675000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481476796000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481478062000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481478323000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481479479000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2481484570000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481486018000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481489435000,
+        {
+            "newGlows": [
+                "White",
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481499252000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481507657000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481508973000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481520858000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481522169000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481567962000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481569270000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481590739000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481592062000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481597998000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481599384000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481605634000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481607051000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2481614011000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481614879000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481615527000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481616327000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481625339000,
+        {
+            "newGlows": [
+                "Black",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481626148000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan",
+                "Black",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481627465000,
+        {
+            "newGlows": [
+                "Black",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481638765000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue",
+                "Black",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481640075000,
+        {
+            "newGlows": [
+                "Black",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481642271000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481685866000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481687178000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481709091000,
+        {
+            "newGlows": [
+                "Black",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481709804000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow",
+                "Black",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481711127000,
+        {
+            "newGlows": [
+                "Black",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481714903000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481722699000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481724084000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481733206000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481734624000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2481736184000,
+        {
+            "newGlows": [
+                "Green",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481743507000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481744685000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481745163000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481746002000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481746610000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481748626000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481750091000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481756619000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481757929000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481804162000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481805478000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481828783000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481830104000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481840081000,
+        {
+            "newGlows": [
+                "Black",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481847386000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red",
+                "Black",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481848772000,
+        {
+            "newGlows": [
+                "Black",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481853456000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481860778000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481861744000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Green",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481862196000,
+        {
+            "newGlows": [
+                "Green",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2481863247000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan",
+                "Green",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481864564000,
+        {
+            "newGlows": [
+                "Green",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481868601000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481871882000,
+        {
+            "newGlows": [
+                "Black",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481874434000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue",
+                "Black",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481875742000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481876858000,
+        {
+            "newGlows": [
+                "Black",
+                "Green"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow"
+            ]
+        }
+    ],
+    [
+        2481880740000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2481891084000,
+        {
+            "newGlows": [
+                "White",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481900418000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481922832000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481924153000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2481938898000,
+        {
+            "newGlows": [
+                "Black",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481947643000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow",
+                "Black",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481948963000,
+        {
+            "newGlows": [
+                "Black",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2481951626000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481972058000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481973444000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2481981814000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481983131000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2481988350000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481989290000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481989768000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White"
+            ]
+        }
+    ],
+    [
+        2481990505000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2481992223000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481992807000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "White",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2481993532000,
+        {
+            "newGlows": [
+                "White",
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2481997062000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2482005610000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482007057000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2482034555000,
+        {
+            "newGlows": [
+                "White",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482041840000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple",
+                "White",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482043081000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2482043164000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2482066355000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482067673000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2482096710000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482098095000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2482100367000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482101684000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2482102023000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482103346000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2482110006000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482111315000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2482115923000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482117340000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2482135747000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482137193000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2482161141000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482162468000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2482164654000,
+        {
+            "newGlows": [
+                "Red",
+                "Cyan"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482178085000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Red",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2482184894000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482186210000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2482218885000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482220202000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2482221336000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482222721000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2482225722000,
+        {
+            "newGlows": [
+                "Black",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482227669000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482229126000,
+        {
+            "newGlows": [
+                "Black",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow"
+            ]
+        }
+    ],
+    [
+        2482232144000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Black",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2482243495000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482244912000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2482265801000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482267245000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2482280686000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482282015000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2482303236000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482304550000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2482334142000,
+        {
+            "newGlows": [
+                "Red",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482337350000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan",
+                "Red",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482338666000,
+        {
+            "newGlows": [
+                "Red",
+                "Blue"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2482345621000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482346930000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2482347316000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2482361782000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482363296000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2482371067000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482372484000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "White"
+            ]
+        }
+    ],
+    [
+        2482395745000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482397188000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ],
+    [
+        2482400428000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482401759000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2482421370000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Yellow"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482422681000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Yellow"
+            ]
+        }
+    ],
+    [
+        2482452293000,
+        {
+            "newGlows": [
+                "Green",
+                "Purple"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482455744000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Cyan",
+                "Green",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482457059000,
+        {
+            "newGlows": [
+                "Green",
+                "Purple"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Cyan"
+            ]
+        }
+    ],
+    [
+        2482461015000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Green",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2482463485000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Blue"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482464795000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Blue"
+            ]
+        }
+    ],
+    [
+        2482470489000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Red"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482471873000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Red"
+            ]
+        }
+    ],
+    [
+        2482490617000,
+        {
+            "newGlows": [
+                "White",
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482498639000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "White",
+                "Black"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482500409000,
+        {
+            "newGlows": [
+                "White",
+                "Black"
+            ],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow"
+            ]
+        }
+    ],
+    [
+        2482500434000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "White",
+                "Black"
+            ]
+        }
+    ],
+    [
+        2482520322000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Purple"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482521654000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Purple"
+            ]
+        }
+    ],
+    [
+        2482525542000,
+        {
+            "newGlows": [],
+            "newDarks": [
+                "Shadow",
+                "Green"
+            ],
+            "returnedToNormal": []
+        }
+    ],
+    [
+        2482526983000,
+        {
+            "newGlows": [],
+            "newDarks": [],
+            "returnedToNormal": [
+                "Shadow",
+                "Green"
+            ]
+        }
+    ]
+]
