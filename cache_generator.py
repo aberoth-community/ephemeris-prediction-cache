@@ -97,9 +97,9 @@ def formatTime(milliseconds: int) -> str:
 def main():
     startTime = time.time_ns() // 1_000_000
     now = round(time.time() * 1000)
-    # Cover the four-day lookback and 100-year forecast with full UTC months.
-    start = epoch_ms(month_start(now - 4 * MS_PER_DAY))
+    # Include the entire previous UTC month and a 100-year forecast.
     current_month = month_start(now)
+    start = epoch_ms(month_start(epoch_ms(current_month) - 1))
     end_month = current_month.replace(year=current_month.year + FORECAST_YEARS)
     end = epoch_ms(next_month(end_month))
     num_moon_cycles = math.ceil((end - start) / (MS_PER_DAY * 3))
